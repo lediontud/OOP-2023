@@ -25,11 +25,17 @@ public class Main
 	{
 		System.out.println("Hello world");
 		
-		Dog penny = new Dog();
-		penny.setName("Penny");
-		penny.speak();
+		//Dog penny = new Dog();
+		//penny.setName("Penny");
+		//penny.speak();
 
-		loops();
+		//loops();
+
+		Cat cat = new Cat();
+
+		for (int i = 0; i < 9; i++) {
+			cat.kill();
+		}
 	}
 	
 }
