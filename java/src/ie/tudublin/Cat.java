@@ -14,7 +14,6 @@ public class Cat {
 
     public void kill() {
         numLives--;
-
         if (numLives > 0) {
             System.out.println("Ouch");
         } else {
