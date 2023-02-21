@@ -32,6 +32,7 @@ public class Main
 		//loops();
 
 		Cat cat = new Cat();
+		
 
 		for (int i = 0; i < 9; i++) {
 			cat.kill();
