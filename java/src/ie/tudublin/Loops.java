@@ -11,6 +11,8 @@ public class Loops extends PApplet {
 		//fullScreen(SPAN);
 	}
 
+
+	
 	public void setup() {
 		colorMode(HSB);
 	}
