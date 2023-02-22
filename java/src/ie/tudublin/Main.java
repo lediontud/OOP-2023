@@ -24,6 +24,8 @@ public class Main {
         //processing.core.PApplet.runSketch( a, new StarMap());
     }
 	
+
+	
 	public static void main(String[] args)
 	{
 		System.out.println("Hello world");
